@@ -1,0 +1,5 @@
+{
+  "kind": "django_app",
+  "display_name": "Gottesdienst-Aufnahme",
+  "description": "Startet die Aufnahme nach Wochenplan (z.B. sonntags 10:28) und beendet sie, wenn es nach der üblichen Länge still wird oder das Pult ausgeschaltet wird - mit Marker, ab wo nur noch Stille kommt."
+}
